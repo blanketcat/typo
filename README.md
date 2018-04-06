@@ -1,6 +1,6 @@
 # Typo
 
-### Fuck up your input deliberatly, and/or intelligently.
+### Phuuque up your input deliberatly, and/or intelligently.
 
 ![alt text](https://raw.githubusercontent.com/blanketcat/typo/master/assets/img/typos_matrix.png)
 
@@ -29,12 +29,12 @@
 1) The keyboard is represented as 2 matrices. (UPPER and lower case)
 2) The neighboring keys of each key in the matrices are determined on instantiation. (defaults to 'en_us' mapping)
 
-*Looking for a list of international keyboard layouts w/ keycodes to append to, or replace this. If you find one before I do, drop me a line at [gcgworld@protonmail.com](mailto:gcgworld@protonmail.com) and let me know where to find it. I'd sincerely appreciate it.*
+*Looking for a list of international keyboard layouts w/ keycodes to append to, or replace this. If you know where that information is, make a pull request new friend! :D*
 
 
 ### Vice Iteration.
 
-*If you comp-sci college types have a name for this already, and there is an implementation in python, drop me a line at [gcgworld@protonmail.com](mailto:gcgworld@protonmail.com) and let me know what it's called. I'd sincerely appreciate it.*
+*If you comp-sci college types have a name for this already, and there is an implementation in C or Python, file an issue and let me know the name of what I'm looking for new friend! :D*
 
 with 2 threads:
 
@@ -64,5 +64,5 @@ with 4 threads:
 
 ##### Disclaimer:
 
-Typo is provided as is... and you're welcome.
+Typo is provided as is... and you're welcome, or whatever... :D
 
