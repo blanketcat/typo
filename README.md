@@ -6,7 +6,7 @@
 
 ### Usage:
 
-```~# typo --options "Your phrase." >> possible_pwords.txt```
+```~# typo --options "Your phrase." >> possible_misspellings.txt```
 
 
 ### Options:
@@ -65,4 +65,3 @@ with 4 threads:
 ##### Disclaimer:
 
 Typo is provided as is... and you're welcome, or whatever... :D
-
