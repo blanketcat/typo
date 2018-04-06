@@ -2,11 +2,7 @@
 
 ### Fuck up your input deliberatly, and/or intelligently.
 
-![alt text](https://raw.githubusercontent.com/gcgworld/typo/master/assets/img/typos_matrix.png)
-
-*I only wrote this to recover a password for an
-external harddrive I encrypted that I wrote down/typed wrong.*
-
+![alt text](https://raw.githubusercontent.com/blanketcat/typo/master/assets/img/typos_matrix.png)
 
 ### Usage:
 
@@ -66,4 +62,7 @@ with 4 threads:
 3fff ---- 7fff ---- 8000 ---- c000
 ```
 
-# GENERAL LIFE WARNING: Only encrypt your hard drives first thing in the morning... after the second cup of coffee... when you are awake enough to type... and record the passphrases correctly...
+##### Disclaimer:
+
+Typo is provided as is... and you're welcome.
+
