@@ -30,38 +30,3 @@
 2) The neighboring keys of each key in the matrices are determined on instantiation. (defaults to 'en_us' mapping)
 
 *Looking for a list of international keyboard layouts w/ keycodes to append to, or replace this. If you know where that information is, make a pull request new friend! :D*
-
-
-### Vice Iteration.
-
-*If you comp-sci college types have a name for this already, and there is an implementation in C or Python, file an issue and let me know the name of what I'm looking for new friend! :D*
-
-with 2 threads:
-
-```
-0000 ---> ffff
-
-0001 ---- ffff
-0002 ---- fffe
-0003 ---- fffd
-  |        |
- ...      ...
-  |        |
-cfff ---- d000
-```
-
-with 4 threads:
-
-```
-0000 ---- 4000 ---- bfff ---- ffff
-0001 ---- 4001 ---- bffe ---- fffe
-0002 ---- 4002 ---- bffd ---- fffd
-  |         |        |         |
- ...       ...      ...       ...
-  |         |        |         |
-3fff ---- 7fff ---- 8000 ---- c000
-```
-
-##### Disclaimer:
-
-Typo is provided as is... and you're welcome, or whatever... :D
