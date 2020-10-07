@@ -28,5 +28,3 @@
 
 1) The keyboard is represented as 2 matrices. (UPPER and lower case)
 2) The neighboring keys of each key in the matrices are determined on instantiation. (defaults to 'en_us' mapping)
-
-*Looking for a list of international keyboard layouts w/ keycodes to append to, or replace this. If you know where that information is, make a pull request new friend! :D*
