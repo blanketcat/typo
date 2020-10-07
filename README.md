@@ -1,6 +1,6 @@
 # Typo
 
-### Phuuque up your input deliberatly, and/or intelligently.
+### Messs up your input deliberatly, and/or intelligently.
 
 ![alt text](https://raw.githubusercontent.com/blanketcat/typo/master/assets/img/typos_matrix.png)
 
